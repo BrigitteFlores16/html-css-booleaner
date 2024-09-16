@@ -1,0 +1,15 @@
+/* #reset */
+img{
+ max-width: 100%;
+}
+ /* # header */
+ .user-pic{
+    width: 150px;
+    height: 150px; 
+}
+.my-bg{
+    background-image: url(../img/pattern.png);
+    background-repeat:cover;
+    background-size:100px 500px;
+}
+ 
