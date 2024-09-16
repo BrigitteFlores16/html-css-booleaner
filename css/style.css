@@ -11,5 +11,40 @@ img{
     background-image: url(../img/pattern.png);
     background-repeat:cover;
     background-size:100px 500px;
+
 }
- 
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+}
+th, td {
+    border: 1px solid #ffffff;
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: #0d6990;
+    color: white;
+}
+tr:nth-child(even) {
+    background-color: #e6f2ff;
+}
+tr:nth-child(odd) {
+    background-color: #ffffff;
+}
+.long-text {
+    width: 50%;
+}
+        
+        .main-title {
+            font-weight: bold;
+            font-size: 500px;
+            margin-bottom: 10px;
+        }
+
+        .highlight {
+            background-color: #ffff00;
+            padding: 2px 0;
+        }
+        
