@@ -15,14 +15,14 @@ a{
     padding-left: 30px; 
  }
 .main-container {
-    padding-left: 5px;
-    padding-right: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 .text-small{
     font-size: 0.7rem;
 }
 .page-header{
-    background-color: rgb(70, 157, 255);
+    background-color: rgb(218, 70, 255);
     background-image: url('../img/pattern.png'); 
     padding-top: 15px;
     background-size:310px ;
@@ -78,10 +78,10 @@ font-size: 0.7rem;
     border-collapse: collapse;
 }
 .head-row{
-    background-color: #6a9fe9;
+    background-color: #b66ae9;
 }
 .odd-row{
-    background-color: #c1e2f3;
+    background-color: #e7c1f3;
 }
 
 /* # aside */
